@@ -22,7 +22,3 @@ export default function Index() {
             </button>
           </Link>
         </div>
-      </div>
-    </div>
-  );
-}
